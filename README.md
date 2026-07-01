@@ -1,2 +1,2 @@
-# GCDownloader BAC
+# GCDownloader COLMEDICA
 Sistema de automatización de Genesys
